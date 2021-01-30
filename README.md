@@ -11,25 +11,25 @@ If you would like to look at the questions for this Lab Assignment to get an ove
 
 Below are screenshots of PowerPoint slides from this assignment as a method to measure students’ understandings of the concepts tested in this Lab Assignment.
 
-![alt text](https://github.com/fadli0029/ImageProcessingWithMatLab/tree/main/slidesscreenshots/slide1.jpg?raw=true)
+![alt text](https://github.com/fadli0029/ImageProcessingWithMatLab/blob/main/slidesscreenshots/slide1.jpg?raw=true)
 
 
-![alt text](https://github.com/fadli0029/ImageProcessingWithMatLab/tree/main/slidesscreenshots/slide2.jpg?raw=true)
+![alt text](https://github.com/fadli0029/ImageProcessingWithMatLab/blob/main/slidesscreenshots/slide2.jpg?raw=true)
 
 
-![alt text](https://github.com/fadli0029/ImageProcessingWithMatLab/tree/main/slidesscreenshots/slide3.jpg?raw=true)
+![alt text](https://github.com/fadli0029/ImageProcessingWithMatLab/blob/main/slidesscreenshots/slide3.jpg?raw=true)
 
 
-![alt text](https://github.com/fadli0029/ImageProcessingWithMatLab/tree/main/slidesscreenshots/slide4.jpg?raw=true)
+![alt text](https://github.com/fadli0029/ImageProcessingWithMatLab/blob/main/slidesscreenshots/slide4.jpg?raw=true)
 
 
-![alt text](https://github.com/fadli0029/ImageProcessingWithMatLab/tree/main/slidesscreenshots/slide4.1.jpg?raw=true)
+![alt text](https://github.com/fadli0029/ImageProcessingWithMatLab/blob/main/slidesscreenshots/slide4.1.jpg?raw=true)
 
 
-![alt text](https://github.com/fadli0029/ImageProcessingWithMatLab/tree/main/slidesscreenshots/slide5.jpg?raw=true)
+![alt text](https://github.com/fadli0029/ImageProcessingWithMatLab/blob/main/slidesscreenshots/slide5.jpg?raw=true)
 
 
-![alt text](https://github.com/fadli0029/ImageProcessingWithMatLab/tree/main/slidesscreenshots/slide6.jpg?raw=true)
+![alt text](https://github.com/fadli0029/ImageProcessingWithMatLab/blob/main/slidesscreenshots/slide6.jpg?raw=true)
 
 Credits to the people mentioned below for developing this Lab Assignment:
 1. Joshua Jain
