@@ -9,6 +9,13 @@ This project consists of 5 challenges and you can find the MATLAB files for each
 
 If you would like to look at the questions for this Lab Assignment to get an overview of each challenge, then navigate to the ECE 5 Final Lab2 Part2 file.
 
+Credits to the people mentioned below for developing this Lab Assignment:
+1. Joshua Jain
+2. Professor Truong Nguyen
+3. Professor Vikash Gilja
+4. Professor Drew Hall
+5. Professor John Eldon
+
 Below are screenshots of PowerPoint slides from this assignment as a method to measure students’ understandings of the concepts tested in this Lab Assignment.
 
 ![alt text](https://github.com/fadli0029/ImageProcessingWithMatLab/blob/main/slidesscreenshots/slide1.jpg?raw=true)
@@ -31,9 +38,3 @@ Below are screenshots of PowerPoint slides from this assignment as a method to m
 
 ![alt text](https://github.com/fadli0029/ImageProcessingWithMatLab/blob/main/slidesscreenshots/slide6.jpg?raw=true)
 
-Credits to the people mentioned below for developing this Lab Assignment:
-1. Joshua Jain
-2. Professor Truong Nguyen
-3. Professor Vikash Gilja
-4. Professor Drew Hall
-5. Professor John Eldon
