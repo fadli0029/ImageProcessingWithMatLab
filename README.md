@@ -1,6 +1,6 @@
 # Image Processing With MATLAB
 
-This project is from the Lab Assignment in my ECE 5 class, Introduction to Electrical and Computer Engineering. In this project, I learned about **Digital Signal Processing**. Upon completing this assignment, I have a strong understanding on concepts like pixels.
+This project is from the Lab Assignment in my ECE 5 class, Introduction to Electrical and Computer Engineering at the University of California San Diego. In this project, I learned about **Digital Signal Processing**. Upon completing this assignment, I have a strong understanding on concepts like pixels.
 
 One of the most valuable experiences from this project is being able to refine my skills in using MATLAB and its built-in functions. 
 
